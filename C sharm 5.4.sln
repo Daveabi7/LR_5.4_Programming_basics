@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C sharm 5.4", "C sharm 5.4\C sharm 5.4.csproj", "{FAD6057C-EE1C-47DB-8B84-7A163E3AB684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD6057C-EE1C-47DB-8B84-7A163E3AB684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD6057C-EE1C-47DB-8B84-7A163E3AB684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD6057C-EE1C-47DB-8B84-7A163E3AB684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD6057C-EE1C-47DB-8B84-7A163E3AB684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A82315-D705-45C6-921B-856F6C053407}
+	EndGlobalSection
+EndGlobal
